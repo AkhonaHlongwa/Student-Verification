@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Student Applies for Accommodation] --> B[Check Registration Status]
     B --> C{Is the student registered for at least 3 modules?}
